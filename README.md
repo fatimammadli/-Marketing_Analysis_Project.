@@ -1,4 +1,4 @@
-# -Marketing Analysis Project.
+# Marketing Analysis Project.
 
 This project analyzes marketing data to find customer behavior patterns.
 

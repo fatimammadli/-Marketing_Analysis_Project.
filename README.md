@@ -31,7 +31,7 @@ To run this project, download the dataset used in the analysis from the followin
 
 Make sure to place the CSV file in the same directory as the notebook or update the file path accordingly.
 
-### Engagement vs Conversion Rate Analysis
+# Engagement vs Conversion Rate Analysis
 When analyzing the **average conversion rates across different channels**, Twitter ranks the highest, followed by Pinterest, Facebook, and Instagram.
 
 However, the **Engagement Score** analysis shows that Instagram has the highest engagement rate, while Pinterest has one of the lowest engagement rates (with a score of only **1**).
